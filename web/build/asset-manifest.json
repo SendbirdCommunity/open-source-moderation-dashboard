@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.dafa4c40.js",
+    "static/media/sendbird-logo.svg": "/static/media/sendbird-logo.c477b689f6520c2749f96a722032c869.svg",
+    "index.html": "/index.html",
+    "main.dafa4c40.js.map": "/static/js/main.dafa4c40.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dafa4c40.js"
+  ]
+}
